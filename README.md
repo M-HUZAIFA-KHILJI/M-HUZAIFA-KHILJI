@@ -29,10 +29,6 @@
     <p>huzaifakhilji7@gmail.com</p>
 </div>
 
-<div style="margin-left: 20px; margin-bottom: 10px;">
-    <h4>⚡ Fun fact:</h4>
-    <p>I can always bring a smile to your face! {😂🤪😁}</p>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
