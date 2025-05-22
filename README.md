@@ -1,4 +1,4 @@
-![Banner](https://www.lsbf.org.uk/media/1627/digital-world-2.jpg?anchor=center&mode=crop&quality=80&width=1920&height=500&rnd=132742552200000000)
+[Banner](https://www.lsbf.org.uk/media/1627/digital-world-2.jpg?anchor=center&mode=crop&quality=80&width=1920&height=500&rnd=132742552200000000)
 
 <h1 align="center">Hello, I'm Muhammad Huzaifa Khilji 👋</h1>
 <h3 align="center">Data Science Practitioner | Building AI-Powered Applications with Python, Go, Django, Flask, SQL | MHK-Technologies | Pakistan</h3>
