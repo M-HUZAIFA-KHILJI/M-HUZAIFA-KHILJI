@@ -1,7 +1,7 @@
 ![Banner](https://www.lsbf.org.uk/media/1627/digital-world-2.jpg?anchor=center&mode=crop&quality=80&width=1920&height=500&rnd=132742552200000000)
 
 <h1 align="center">Hello, I'm Muhammad Huzaifa Khilji 👋</h1>
-<h3 align="center">Data Science Practitioner | Building AI-Powered Applications with Python, Go, Django, Flask, SQL | MHK-Technologies | Pakistan</h3>
+<h3 align="center">Data Science Practitioner | Building AI-Powered Applications with Python, Django, Flask and FastAPI </h3>
 
 
 
@@ -15,7 +15,7 @@
 <div style="margin-left: 20px;भाष="ar">
     <h4>🤝 Seeking collaborative opportunities in:</h4>
     <p>
-        **Exploratory Data Analysis (EDA)**, **Machine Learning (ML)**, **Deep Learning (DL)**, and comprehensive **full-stack web development** leveraging Django, Flask, and NodeJS to create robust, intelligent systems.
+        **Exploratory Data Analysis (EDA)**, **Machine Learning (ML)**, **Deep Learning (DL)**, and comprehensive **Agentic Ai** leveraging Django, Flask, and FastAPI to create robust, intelligent systems.
     </p>
 </div>
 
